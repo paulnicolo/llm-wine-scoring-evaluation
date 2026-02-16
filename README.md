@@ -25,5 +25,5 @@ Model performance is evaluated using mean absolute error (MAE) and mean squared 
 These results suggest that while LLMs can extract signal from subjective text, their outputs should be treated as estimates rather than ground truth. Baselines, output constraints, and uncertainty analysis are critical when deploying LLMs in real-world evaluation or decision-support systems.
 
 ## Files
-- `llm_prompting_subjective_scoring.ipynb`: Full analysis notebook
-- `llm_prompting_subjective_scoring.pdf` (optional): Static version for quick review
+- `llm_wine_scoring_evaluation.ipynb`: Full analysis notebook
+- `llm_wine_scoring_evaluation.pdf` (optional): Static version for quick review
